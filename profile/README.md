@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ProjNull/.github/blob/main/profile/logo.png?raw=true" width="80" height="80" alt="NULL Logo" />
+  <img src="https://github.com/ProjNull/.github/blob/main/profile/logo.png?raw=true" height="80" alt="NULL Logo" />
 </p>
 NULL is a group of high school students focused on competing in **Hackathons**
 <!--
