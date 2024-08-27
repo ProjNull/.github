@@ -2,7 +2,7 @@
   <img src="https://github.com/ProjNull/.github/blob/main/profile/logo.png?raw=true" height="80" alt="NULL Logo" />
 </p>
 NULL is a group of high school students focused on competing in <b>Hackathons</b>
-<!--
+
 <a href="https://projnull.eu">
   <img src="https://github.com/ProjNull/.github/blob/main/profile/web.png?raw=true" />
 </a>
