@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="http://some_place.com/image.png" />
+  <img src="https://github.com/ProjNull/.github/blob/main/profile/logo.png?raw=true" width="80" height="80" alt="NULL Logo" />
 </p>
-
-# {NULL}
 NULL is a group of high school students focused on competing in **Hackathons**
-[![bitmap](https://github.com/user-attachments/assets/e942ff8f-2512-4bc3-839f-ad131b5db2db)](https://projnull.eu)
+<!--
+<a href="https://projnull.eu">
+  <img src="https://github.com/ProjNull/.github/blob/main/profile/web.png?raw=true" />
+</a>
 
 <!--
 
