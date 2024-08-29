@@ -16,6 +16,9 @@
   <a href="https://janpalma.cz/s/null-invite">
     <img height="32" src="https://github.com/ProjNull/.github/blob/main/profile/discord-icon.png?raw=true" />
   </a>
+  <a href="https://www.youtube.com/@ProjNULL">
+    <img height="32" src="https://github.com/ProjNull/.github/blob/main/profile/youtube-icon.png?raw=true" />
+  </a>
 </div>
 
 
