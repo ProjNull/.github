@@ -3,10 +3,21 @@
   NULL is a group of high school students focused on competing in <b>Hackathons</b>
 </p>
 
+<div align="center">
+  <a href="https://projnull.eu">
+    <img width="400" src="https://github.com/ProjNull/.github/blob/main/profile/web.png?raw=true" />
+  </a>
+  <a href="https://janpalma.cz/s/null-invite">
+    <img width="400" src="https://github.com/ProjNull/.github/blob/main/profile/discord.png?raw=true" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <a href="https://janpalma.cz/s/null-invite">
+    <img height="32" src="https://github.com/ProjNull/.github/blob/main/profile/discord-icon.png?raw=true" />
+  </a>
+</div>
 
-<a href="https://projnull.eu">
-  <img src="https://github.com/ProjNull/.github/blob/main/profile/web.png?raw=true" />
-</a>
 
 <!--
 
