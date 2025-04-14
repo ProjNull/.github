@@ -7,13 +7,13 @@
   <a href="https://projnull.eu">
     <img width="400" src="https://github.com/ProjNull/.github/blob/main/profile/web.png?raw=true" />
   </a>
-  <a href="https://janpalma.cz/s/null-invite">
+  <a href="https://janp.cz/null">
     <img width="400" src="https://github.com/ProjNull/.github/blob/main/profile/discord.png?raw=true" />
   </a>
 </div>
 <br>
 <div align="center">
-  <a href="https://janpalma.cz/s/null-invite">
+  <a href="https://janp.cz/null">
     <img height="32" src="https://github.com/ProjNull/.github/blob/main/profile/discord-icon.png?raw=true" />
   </a>
   <a href="https://www.youtube.com/@ProjNULL">
